@@ -11,6 +11,10 @@ Trabalho apresentado ao curso BI MASTER como pré-requisito para conclusão de c
 ### Resumo
 Este artigo tem por finalidade compreender, através da análise de dados históricos de empresas MPME (micro, pequenas e médias) no mercado brasileiro, seu perfil de atuação, de modo a maximizar a potência das Políticas Públicas para MPMEs pelo BNDES. O projeto de business intelligence (BI) desenvolvido visa atender a essas necessidades de percepção para este problema. Neste artigo são identificados os objetivos do projeto, o processo de BI desenvolvido, os resultados e conclusões obtidos.
 
+### Abstract
+
+This article aims to identify, through the analysis of historical data of energy supply in the Brazilian energy market, solutions to the growing demand for consumption in the Brazilian population, analysis of the potential of the use of renewable energy sources. The business intelligence (BI) project developed aims to meet these perception needs for this problem. This article identified the objectives of the project, the BI process developed, the results and conclusions obtained.
+
 ### 1. Introdução
 
 Empresas brasileiras podem solicitar financiamentos diretamente ao Banco Nacional de Desenvolvimento Econômico e Social (BNDES) - forma direta - ou por meio de instituições financeiras credenciadas - forma indireta. A forma de apoio depende da finalidade e do valor do financiamento, mas via de regra, para solicitar apoio direto ao BNDES é necessário que a operação de crédito tenha valor superior a R$ 20 milhões.
