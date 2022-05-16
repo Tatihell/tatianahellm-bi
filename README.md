@@ -1,8 +1,8 @@
 # [Analise de Dados da Participacao de Empresas MPME no Mercado Brasileiro](https://github.com/secretaria-ICA/Analise_de_Dados_da_Participacao_de_Empresas_MPME_no_Mercado_Brasileiro):
 
-#### Aluno: [Tatiana Hellman](https://github.com/tatiana-hellman-bi).
+#### Aluno: [Tatiana Hellman](https://github.com/tatiana-hellman-bi)
 
-#### Orientador: [Anderson Nascimento](https://github.com/insightds).
+#### Orientador: [Anderson Nascimento](https://github.com/insightds)
 
 Trabalho apresentado ao curso BI MASTER como pré-requisito para conclusão de curso e obtenção de crédito na disciplina "Projetos de Sistemas Inteligentes de Apoio à Decisão".
 
