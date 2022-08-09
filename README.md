@@ -20,7 +20,7 @@ Através  do cruzamento de dados destas instituições, deseja-se maximizar a po
 
 
 ### 2. Modelagem
-Obteve-se o modelo transacional e modelo em formato estrela através de análise minuciosa dos dados e de sua importância para este estudo. Finalmente gerou-se 4 tabelas dimensionais e 1 tabela fato. Preservou-se os dados mais recentes, no período de 2019 a 2021. Com os dados escolhidos, iniciou-se a etapa de preparação dos dados para o Data Warehouse (DW) através do processo de ETL para executar a transformação dos dados, buscando-se a uniformização de unidades de medidas e nomes de campos através da ferramenta PDI, para finalmente incluir os dados no Power BI.
+Obteve-se o modelo multidimensional em formato estrela através de análise minuciosa dos dados e de sua importância para este estudo. Finalmente gerou-se 4 tabelas dimensionais e 1 tabela fato. Preservou-se os dados mais recentes, no período de 2019 a 2021. Com os dados escolhidos, iniciou-se a etapa de preparação dos dados para o Data Warehouse (DW) através do processo de ETL para executar a transformação dos dados, buscando-se a uniformização de unidades de medidas e nomes de campos através da ferramenta PDI, para finalmente incluir os dados no Power BI.
 
 ### 3. Resultados
 Foram gerados 4 dashboards com visuais conectados. Os 3 primeiros mostram, respectivamente, uma visão por porte, setor e região no Bndes e no mercado nacional. O 4° painel compõe a visualização de dados ao longo so tempo em ambos os mercados. É possível realizar filtros por tipo de porte, ano, setor e regiao. 
