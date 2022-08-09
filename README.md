@@ -15,7 +15,7 @@ Este artigo tem por finalidade compreender, através da análise de dados histó
 ### 1. Introdução
 
 O foco do presente trabalho é estudar financiamentos para MPMEs (Micro, Pequenas e Médias Empresas) no Brasil, que representam em 2022, mais de 97% da quantidade de contratos firmados no BNDES, e cerca de 60% do volume de contratações.
-Assim, para melhor compreender o perfil das MPMEs no Brasil, será realizado um cruzamento de dados disponíveis no BNDES e dados externos oferecidos pelas demias instituições bancárias nacionais no mercado disponíveis online pelo Bacen. 
+Assim, para melhor compreender o perfil das MPMEs no Brasil, será realizado um cruzamento de dados disponíveis no BNDES e dados externos oferecidos pelas demais instituições bancárias nacionais no mercado disponíveis online pelo Bacen. 
 Através  do cruzamento de dados destas instituições, deseja-se maximizar a potência das Políticas Públicas para as MPMEs pelo BNDES, através da elaboração de Elaboração de Dashboards de Inteligência em MPMEs utilizando esses dados e informações internas e externas para otimizar o processo de coleta e geração de relatórios e insights, análises e necessidades do clientes MPMEs dados, a fim de divulgação/comunicação para públicos selecionados.
 
 
