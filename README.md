@@ -29,6 +29,7 @@ Os resultados obtidos através da análise dos DashBoard foram: as regiões que 
 
 ### 4. Conclusões
 O resultado final indica que o foco de financiamento do BNDES caminha em linha com o foco nacional no que tange a setores de investimento, porte de empresas e regiões brasileiras beneficiadas. Entretanto, pelo fato de estar se tornando menos competitiva, seria oportuno  mudar o foco de seus investimentos para abocanhar maior market share no cenário nacional de empréstimos a MPMEs, por exemplo, criando novas linhas de financiamento mais atrativas para micro e pequenas empresas, voltadas para o setor industrial. Além disso, há que se pensar em uma forma de atrair mais operações no Centro-Oeste, Norte e Nordeste, regiões carentes de financiamento por parte de instituições financeiras brasileiras.
+
 ---
 
 Matrícula: 202.190.289
